@@ -4,6 +4,8 @@
 
 **Demo Video:** [Youtube Link](https://youtu.be/-l9-UUwLa6g)
 
+**Final Grade:** 120 out of 100
+
 ## Introduction
 
 This program renders a height field using OpenGL shaders, allowing interactive visualization and manipulation of terrain data derived from heightmap images. It supports various rendering modes, smooth shading, and user controls for transformation and camera adjustments.
