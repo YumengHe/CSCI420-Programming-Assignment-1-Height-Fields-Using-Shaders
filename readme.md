@@ -4,7 +4,7 @@
 
 **Demo Video:** [Youtube Link](https://youtu.be/-l9-UUwLa6g)
 
-**Final Grade:** 120 out of 100
+**Final Grade:** 110 out of 100
 
 ## Introduction
 
